@@ -13,7 +13,7 @@
         # environment, which will be unique for each time that function is invoked
         # the output of the function will be a list with 5 objects (functions):
         # setmatrix, getmatrix, setinverse, getinverse, and getenvironment
-        ########################################################################
+        ##########################################################################
         
         makeCacheMatrix <- function(x = matrix()) {
                 # Example input: Insert matrix e.g x<-matrix(rnorm(100),10,10)
